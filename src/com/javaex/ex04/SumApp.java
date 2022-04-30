@@ -13,6 +13,8 @@ public class SumApp {
 
 		//코드를 작성하세요
 		
+
+		
 		sum = numLine+sum;
 		
 		

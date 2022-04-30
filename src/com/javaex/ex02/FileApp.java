@@ -4,19 +4,16 @@ import java.io.IOException;
 
 public class FileApp {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args){
 
 		// try~catch문을 사용하여 에러를 수정하세요
-		fileRead()
-		public String read2(String path) {	
+
 			try {
 				throw new IOException();
-				String fileRead = "";
-				return fileRead;
 			}catch(IOException e) {
 				System.out.println("파일이 없습니다.");
-			}
 			
+			}
 		
 		
 		
